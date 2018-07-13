@@ -1,0 +1,15 @@
+.Header {
+    background: url(../../global/pictures/Papa.png);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Header .Article {
+    display: inline-block;
+    margin: 330px 80px 30px;
+    width: 40%;
+    padding: 10px;
+    background: #ffffff69;
+}
