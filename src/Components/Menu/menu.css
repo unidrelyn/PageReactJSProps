@@ -1,0 +1,51 @@
+.navbar {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    background: #00000024;
+    height: 70px;
+}
+
+.logo {
+    width: 30%;
+    margin: 20px;
+}
+
+.navbar .logo a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar .logo a h2 {
+    font-weight: normal;
+}
+
+.navbar .nav-menu {
+    width: 60%;
+    margin: 20px;
+}
+
+.navbar .nav-menu .menu {
+    display: inline-flex;
+    margin: 20px 0px 0px 230px;
+}
+
+.navbar .nav-menu .menu li {
+    list-style: none;
+    margin: 0 20px;
+}
+
+.navbar .nav-menu .menu li a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar .form-search {
+    width: 10%;
+    margin: 20px;
+    display: inline-flex;
+    color: white;
+}

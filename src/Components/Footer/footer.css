@@ -1,0 +1,28 @@
+.footer {
+    margin-top: 30px;
+    border-top: 1px solid #000;
+    border-top-style: dashed;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
+    font-size: 14px;
+    display: flex;
+}
+
+.footer .terms {
+    margin: auto 20px;
+    width: 80%;
+}
+
+.footer .terms span {
+    margin: 25px;
+}
+
+.footer .follow {
+    margin: auto 20px;
+    width: 20%;
+}
+
+.footer .follow span {
+    margin: 20px;
+}

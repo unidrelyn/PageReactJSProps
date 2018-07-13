@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import './menu.css';
+
 class Menu extends Component {
   render() {
     return (
@@ -9,7 +11,7 @@ class Menu extends Component {
             <h2 className="Title-logo">Rule of Thumb</h2>
           </a>
         </div>
-        <div>
+        <div className="nav-menu">
           <ul className="menu">
             <li className="menu-item">
               <a href="#">Past Trials</a>

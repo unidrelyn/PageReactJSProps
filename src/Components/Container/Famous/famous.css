@@ -1,0 +1,55 @@
+.famous {
+    padding-top: 350px;
+    color: white;
+}
+
+.title-famous > span:first-child {
+    position: absolute;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.title-famous > span:last-child {
+    font-size: 40px;
+    line-height: 45px;
+    margin-left: 30px;
+}
+
+.info {
+    margin: 80px 30px;
+    padding: 5px;
+}
+
+.info > p:nth-last-of-type(2) {
+    margin-top: -10px;
+}
+
+.famous-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.famous-list > div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 43%;
+    height: 628px;
+    margin-bottom: 40px;
+}
+
+.kanye {
+    background: url(../../../assets/imagen/Kanye.png);
+}
+
+.Mark {
+    background: url(../../../assets/imagen/Mark.png);
+}
+
+.Cristina {
+    background: url(../../../assets/imagen/Cristina.png);
+}
+
+.Malala {
+    background: url(../../../assets/imagen/Malala.png);
+}

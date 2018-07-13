@@ -1,0 +1,25 @@
+.newsletter {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    background: url('../../../assets/imagen/news.jpg ');
+}
+
+.newsletter .news-text {
+    width: 80%;
+    margin: 10px;
+}
+
+.newsletter .news-button {
+    width: 20%;
+    margin: 10px;
+}
+
+.newsletter .news-button .submit-news{
+    border: 1px solid black;
+    border-radius: inherit;
+    color: black;
+    font-weight: bold;
+    padding: 10px 30px;   
+    font-size: 20px;
+}

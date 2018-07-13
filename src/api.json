@@ -1,7 +1,7 @@
  [
     {                                                                                     
         "id": "1",
-        "image": "kanye-west.jpg",
+        "classimage": "kanye",
         "character": "Kanye West",
         "sectiontime": 1,
         "section": "Entertainment",                
@@ -11,7 +11,7 @@
     },                
     {                                                                                     
         "id": "2",
-        "image": "mark.jpg",
+        "classimage": "Mark",
         "character": "Mark Zuckerberg",
         "sectiontime": 1,
         "section": "Business",                
@@ -21,7 +21,7 @@
     },                
     {                                                                                     
         "id": "3",
-        "image": "cristina.jpg",
+        "classimage": "Cristina",
         "character": "Cristina Fernández",
         "sectiontime": 1,
         "section": "Politics",                
@@ -31,7 +31,7 @@
     },
     {                                                                                     
         "id": "4",
-        "image": "malala.jpg",
+        "classimage": "Malala",
         "character": "Malala Yousafzai",
         "sectiontime": 1,
         "section": "Entertainment",                
