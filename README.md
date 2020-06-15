@@ -1,3 +1,7 @@
+## Web Page in ReactJS - Props
+
+![Smallpage](https://user-images.githubusercontent.com/25165141/84645140-6e15ba80-af00-11ea-8f36-f70fe98dcf37.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
